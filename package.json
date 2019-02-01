@@ -1,0 +1,22 @@
+{
+  "name": "songbookapi",
+  "version": "1.0.0",
+  "description": "A Restfull SongBook API in Node, Express & MongoDB ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webudvikler-TechCollege/SongBookAPI.git"
+  },
+  "author": "Heinz K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webudvikler-TechCollege/SongBookAPI/issues"
+  },
+  "homepage": "https://github.com/Webudvikler-TechCollege/SongBookAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
