@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Webudvikler-TechCollege/SongBookAPI#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongo": "^0.1.0",
     "mongoose": "^5.4.8",
